@@ -11,6 +11,3 @@ Tujuan dari repository ini adalah sebagai portofolio terbuka yang menunjukkan ke
 - Case Study menggunakan dataset publik
 
 ---
-
-## 🗂 Strukur Repository
-
